@@ -262,22 +262,20 @@ Here’s the thing — once there’s a resolution, your job as a lead engineer 
 
 This is where a Decision Log + Final Context Note strategy pays off.
 
-⸻
+---
 
-1. Treat Every Resolution as an Artifact
+## 1. Treat Every Resolution as an Artifact
 
 When something’s resolved — whether a technical choice, a process change, or a people-related decision — you want it stored in a way that survives:
-	•	You going on vacation
-	•	Someone new joining the team
-	•	A future debate on the same topic
+- You going on vacation
+- Someone new joining the team
+- A future debate on the same topic
 
-⸻
-
-2. Decision Log Entry (The Minimal Must-Have)
+## 2. Decision Log Entry (The Minimal Must-Have)
 
 When an A: item is closed or a D: decision is finalized:
-	•	Move it to Decision Log (if it’s a decision) or mark the Action Log item “Done” with a link to context.
-	•	Your Decision Log entry should have five parts:
+- Move it to Decision Log (if it’s a decision) or mark the Action Log item “Done” with a link to context.
+- Your Decision Log entry should have five parts:
 
 Field	Why it matters
 Date	Time-stamps the decision
@@ -288,52 +286,43 @@ Owner / Approver	Who made the call
 
 Example:
 
+```
 Date: 2025-08-12
 Decision: Switch to gRPC for internal API calls
 Context: Existing REST API causing ≈150ms latency per request under load
 Alternatives: Optimize REST, Use message queue, gRPC
 Owner: Priya S (Tech Lead)
+```
 
-
-⸻
-
-3. Link to Supporting Notes
+## 3. Link to Supporting Notes
 
 You don’t want your Decision Log bloated with every detail — but you do want to link to:
-	•	Meeting notes where it was discussed
-	•	Benchmarks or diagrams
-	•	Jira ticket or PR
+- Meeting notes where it was discussed
+- Benchmarks or diagrams
+- Jira ticket or PR
 
 That way, anyone who needs the deep dive can follow the trail.
 
-⸻
-
-4. “Final Context” Notes for Complex Resolutions
+## 4. “Final Context” Notes for Complex Resolutions
 
 For bigger resolutions — e.g., architectural shifts, vendor choices, or process changes — create a single, polished “Final Context” note in your project folder:
-	•	1–2 pages max
-	•	Plain language summary
-	•	Links to relevant logs, diagrams, or metrics
-	•	Clear “Impact” section (what changes now, what doesn’t)
+- 1–2 pages max
+- Plain language summary
+- Links to relevant logs, diagrams, or metrics
+- Clear “Impact” section (what changes now, what doesn’t)
 
 This becomes the go-to artifact for onboarding new people or answering “why” later.
 
-⸻
+## 5. Archive, Don’t Delete
 
-5. Archive, Don’t Delete
-	•	Keep old decision entries — even if they’re “reversed” later.
-	•	Add a Status field: Active, Superseded, Reversed.
-	•	History matters — I once saved my team 3 weeks at Amazon by pulling up a 10-month-old decision note proving that a rejected idea had already been tested and failed.
-
-⸻
+- Keep old decision entries — even if they’re “reversed” later.
+- Add a Status field: Active, Superseded, Reversed.
+- History matters — I once saved my team 3 weeks at Amazon by pulling up a 10-month-old decision note proving that a rejected idea had already been tested and failed.
 
 Rule of Thumb:
 A decision without preserved context is just a rumor.
 Your job is to make it a fact in the team’s collective memory.
 
-⸻
-
 If you want, I can give you a Decision Log template I used that fits on one screen but captures all the critical info for future you (and future team members).
 
 Do you want me to share that next?
-
