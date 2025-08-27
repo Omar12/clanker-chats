@@ -23,6 +23,8 @@ person: TeamMemberName
 date: {{date:YYYY-MM-DD}}
 mood: 3
 topics: []
+summary: >
+  Discussed migration project progress...
 ---
 
 # 📝 1:1 – {{date:YYYY-MM-DD}} – [[TeamMemberName]]
@@ -81,6 +83,27 @@ FROM "1on1s"
 WHERE type = "1on1"
 GROUP BY person
 SORT "Last 1:1" DESC
+```
+
+---
+
+## Query Summaries
+
+```
+TABLE date, summary
+FROM "1on1s/TeamMemberName"
+WHERE type = "1on1" AND person = "TeamMemberName"
+SORT date ASC
+```
+
+## Use ChatGPT to create a Yearly Narrative Summary
+
+At year-end:
+1.	 Copy the “Summaries” table from Obsidian (for one person or your whole team).
+2.	 Paste it into ChatGPT with a prompt like:
+
+```
+“Here are summaries from my 1:1s with [Name] in 2025. Please create a year-end narrative highlighting key wins, recurring challenges, growth areas, morale trends, and any risks/opportunities I should be aware of as their manager.”
 ```
 
 ---
