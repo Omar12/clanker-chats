@@ -14,12 +14,16 @@ The shift came when I started seeing my career as a 30-year marathon. You can pu
 
 Practical tip: After every major launch or crunch cycle, proactively schedule recovery time. Take a long weekend. Work on lower-stakes bugs or refactoring for a week. Let the pendulum swing back.
 
+---
+
 ## 2. Manage energy, not just time
 
 Time is finite, but energy is renewable. The engineers who last the longest aren't necessarily the smartest — they've just built routines that keep their energy tanks full.
 * Physical: Sleep is non-negotiable. I used to treat it as a luxury until I realized that 2 bad nights made me twice as slow at debugging.
 * Mental: Don't code all day without breaks. Pomodoro techniques or even 2 minutes of deep breathing at your desk resets the brain.
-* Emotional: Work on at least one thing that excites you, even if it's 10% of your time. When I was drowning in bureaucracy at Meta, I carved out time for a side project improving build times. That "fun project" kept me sane.
+* Emotional: Work on at least one thing that excites you, even if it's 10% of your time. When I was drowning in bureaucracy at one of my past roles, I carved out time for a side project improving build times. That "fun project" kept me sane.
+
+---
 
 ## 3. Learn to say no without guilt
 
@@ -32,6 +36,8 @@ That stuck with me. Now, I'll say:
 
 People respect boundaries more than you think.
 
+---
+
 ## 4. Build micro-rewards into your week
 
 The human brain needs little doses of celebration. Don't wait until a big launch to feel accomplished.
@@ -39,6 +45,8 @@ The human brain needs little doses of celebration. Don't wait until a big launch
 * Treat yourself after closing a tough Jira ticket — even something small like a walk outside or better coffee.
 
 These micro-moments keep your motivation alive.
+
+---
 
 ## 5. Watch for the warning signs
 
@@ -49,7 +57,11 @@ Burnout doesn't appear overnight. It's a slow leak. Some red flags I learned to 
 
 When those show up, it's time to slow down, not push harder.
 
+---
+
 If I had to distill this: Burnout is the interest you pay on unsustainable effort. Pace yourself by creating balance before the balance is forced on you.
+
+---
 
 Do you feel your burnout risk comes more from workload (too much on your plate) or energy mismanagement (not recharging properly)? That will change the tactics I'd suggest for you.
 
@@ -63,6 +75,8 @@ Let me share how I learned this the hard way in the past. Early on, I was buried
 
 Here's what helped me reset:
 
+---
+
 ## 1. Install a "capture system" to empty your brain
 
 Your brain is a terrible task manager. If you try to juggle 50 to-dos in your head, you'll feel overwhelmed even if you only had to do 10.
@@ -70,6 +84,8 @@ Your brain is a terrible task manager. If you try to juggle 50 to-dos in your he
 * Once a day, I sort the list: What's urgent, what's important, what can wait.
 
 It's amazing how just writing things down instantly lowers anxiety.
+
+---
 
 ## 2. Prioritize by energy zones, not just urgency
 
@@ -79,6 +95,8 @@ Don't assign heavy tasks to low-energy times.
 * Admin work (expense reports, forms, compliance junk) gets the "end-of-day dregs."
 
 Mapping work to your natural energy curve prevents "fighting upstream" all day.
+
+---
 
 ## 3. Install buffers in your calendar
 
@@ -91,6 +109,8 @@ Now, I block:
 
 These buffers act like shock absorbers. Without them, every small surprise knocks you off balance.
 
+---
+
 ## 4. Ruthlessly prune commitments
 
 A simple question I ask every Monday:
@@ -98,6 +118,8 @@ A simple question I ask every Monday:
 
 That becomes the anchor. Everything else is "nice to have."
 If I get that one thing done, I win the week. This mindset breaks the cycle of trying to do everything and failing at all of it.
+
+---
 
 ## 5. Recharge deliberately, not passively
 
@@ -126,10 +148,14 @@ I'll break it into Daily Routines + Weekly Rituals.
 * 10 mins: Prioritize 3 → Pick the three tasks that matter most today. One should be your "must win" task — if you only did that, the day is successful.
 * Energy-matching: Do the hardest/creative task first (before Slack/email).
 
+---
+
 ### Midday
 
 * 30 mins lunch break away from desk → even a walk outside.
 * Mini-reset: Close Slack/email for 90 minutes and focus on one priority task.
+
+---
 
 ### Afternoon
 
@@ -138,6 +164,8 @@ I'll break it into Daily Routines + Weekly Rituals.
 * Did I complete my 3 priorities?
 * If not, reschedule unfinished tasks for tomorrow (never leave them dangling).
 
+---
+
 ## 🗓️ Weekly Rituals
 
 ### Friday Afternoon (1 hour)
@@ -145,14 +173,20 @@ I'll break it into Daily Routines + Weekly Rituals.
 * Review the week: What got done? What drained you? Where did you feel strong?
 * Plan next week: Pick one anchor goal (the most important thing that'll make you feel accomplished). Then fill in smaller tasks around it.
 
+---
+
 ### Sunday (optional, 20 mins)
 
 * Light prep: glance at calendar, set intentions. This makes Monday far less overwhelming.
+
+---
 
 ## 🔑 Guardrails
 * No more than 3 major tasks per day. Anything beyond that is bonus, not baseline.
 * Protect your mornings: If you can, decline meetings before 11 AM. Mornings are for deep work.
 * Recharge slots: Schedule 2–3 non-negotiable energy activities each week (gym, hobbies, family dinner). Treat them like meetings.
+
+---
 
 This system isn't about perfection — it's about rhythm. Think of it like running cadence: once you find the beat, the marathon gets easier.
 
