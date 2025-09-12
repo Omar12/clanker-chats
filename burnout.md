@@ -282,3 +282,87 @@ Schedule 2–3 non-negotiable activities that give you energy:
 (Anything you want to remember or carry forward.)
 ```
 
+---
+
+Ah, this is the trap most engineers fall into: you build a solid system, then a fire drill or urgent ping from your manager blows it up — and suddenly you’re back in reactive mode.
+
+The trick is not to eliminate urgent requests (they’ll never stop) but to handle them without letting them hijack your entire operating rhythm. Let me walk you through strategies I’ve seen work across both startups (where everything is “urgent”) and big corps like Amazon/Meta (where urgency often hides poor planning).
+
+⸻
+
+1. Install a triage protocol
+
+Think of yourself as the ER doctor, not the patient. When an urgent request comes in:
+	•	Clarify scope immediately: “Do you need this today, this week, or just ASAP?”
+	•	Classify it:
+	•	🚨 True emergency: user outage, production down → Drop everything.
+	•	⚠️ High importance, but not crisis: clarify deadline, negotiate time.
+	•	❓ Perceived urgency: manager/team just wants peace of mind → can often be addressed with a quick update or a partial deliverable.
+
+At Amazon, I had a sticky note on my monitor: “Is it on fire?” If not, it can usually wait a few hours.
+
+⸻
+
+2. Use the quick response, delayed action trick
+
+A lot of urgency is emotional — people just want to feel heard. You don’t need to do the work immediately, but you do need to respond immediately.
+
+Example:
+	•	Team ping: “Can you check this API bug now?”
+	•	Response: “Got it, I’ll finish reviewing X in 45 mins, then look. If it escalates before then, let me know.”
+
+This defuses tension while protecting your flow.
+
+⸻
+
+3. Build an interrupt buffer into your day
+
+At Netflix, I noticed senior engineers had 1–2 “interrupt slots” daily where they’d batch urgent requests. That way they weren’t thrashing all day.
+	•	Mid-morning (after deep work).
+	•	Mid-afternoon (before energy crash).
+
+When something “urgent” comes in, you slot it into the next buffer instead of dropping everything.
+
+⸻
+
+4. Negotiate openly with your manager
+
+If you constantly absorb urgent asks, you’ll look like the firefighter but never the architect. The danger is you’ll be seen as dependable but not strategic.
+
+Script I’ve used with managers:
+
+“I can jump on this now, but that means Feature A slips by a day. Which should I prioritize?”
+
+This puts the decision back on them and teaches them to be more careful with urgent requests. Over time, they’ll stop throwing random fires at you unless they’re truly critical.
+
+⸻
+
+5. Keep a running log of interrupts
+
+Every time you get an urgent request, jot it down in a section of your weekly note. At the end of the week, review:
+	•	How many were truly emergencies?
+	•	Who generated most of them?
+	•	Are there patterns (e.g., QA always flags late, manager forgets deadlines)?
+
+This log becomes evidence. At Meta, I once showed my manager a list of 15 “urgent asks” in 2 weeks. He was shocked and ended up shielding me more. Data > complaints.
+
+⸻
+
+6. Protect your deep work core
+
+Even with a buffer system, you need sacred hours when you’re not interruptible unless prod is down. For me, it was 9–11 AM. Everyone knew that was my “code cave.”
+
+Set expectations:
+	•	Put it on your calendar.
+	•	Communicate it clearly: “I’ll be heads down until 11, if it’s a P1 ping me directly, otherwise I’ll respond after.”
+
+People respect clear boundaries when you enforce them consistently.
+
+⸻
+
+👉 The mental shift: You don’t have to solve every urgent request right away — you just have to manage how they land.
+
+⸻
+
+Would you like me to draft a response playbook (short scripts you can use for Slack/email when these requests pop up) so you don’t have to improvise under pressure?
+
