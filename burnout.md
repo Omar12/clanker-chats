@@ -8,7 +8,7 @@ Here's how I've learned to pace myself after going through multiple cycles of ne
 
 ## 1. Think like a marathon runner, not a sprinter
 
-Early in my career at Google, I used to treat every project like a sprint. Long nights, fueled by caffeine, shipping something in record time. The short-term recognition felt amazing, but I noticed a dangerous pattern: after shipping, my energy was wrecked, and my motivation tanked.
+Early in my career in the past, I used to treat every project like a sprint. Long nights, fueled by caffeine, shipping something in record time. The short-term recognition felt amazing, but I noticed a dangerous pattern: after shipping, my energy was wrecked, and my motivation tanked.
 
 The shift came when I started seeing my career as a 30-year marathon. You can push hard during "race segments," but you must slow down in between.
 
@@ -29,7 +29,7 @@ Time is finite, but energy is renewable. The engineers who last the longest aren
 
 Burnout often comes from overcommitting. Saying yes feels good in the moment but steals future energy.
 
-A VP at Netflix once told me: "Every yes is a no to something else — sometimes your health, sometimes your family."
+A VP at a previous role once told me: "Every yes is a no to something else — sometimes your health, sometimes your family."
 That stuck with me. Now, I'll say:
 * "I can do X by Friday, but not Y."
 * "I don't have bandwidth this sprint. Can we revisit next month?"
@@ -100,7 +100,7 @@ Mapping work to your natural energy curve prevents "fighting upstream" all day.
 
 ## 3. Install buffers in your calendar
 
-At Netflix, I noticed the senior engineers' calendars had empty blocks. At first, I thought they weren't working as hard. Nope — they were working smarter.
+At a previous role, I noticed the senior engineers' calendars had empty blocks. At first, I thought they weren't working as hard. Nope — they were working smarter.
 
 Now, I block:
 * 30 mins each morning: planning the day (what I won't do matters as much as what I will).
