@@ -69,9 +69,9 @@ Metrics that matter (and won’t get gamed)
 
 Share these with management. It reframes the conversation from “pretty burndown” to “reliable delivery.”
 
-A simple two-sprint experiment plan
+## A simple two-sprint experiment plan
 
-Sprint 1
+### Sprint 1
 * Enforce DoR/DoD.
 * Slice every story to 1–2 days.
 * Set WIP limit and add “reviewer of the day.”
@@ -79,19 +79,19 @@ Sprint 1
 * Swarm the riskiest item first.
 * 20% buffer for interrupts.
 
-Retro questions
+### Retro questions
 * Which column had the biggest queue?
 * What’s the top cause of aging >2 days (requirements, reviews, test envs, flaky CI)?
 * One automation or policy we’ll add next sprint?
 
-Sprint 2
+### Sprint 2
 * Reduce review SLA to 24h; introduce merge bot if possible.
 * Add a “blocker busting” 30-minute window daily, owned by one engineer.
 * If cycle time > 3 days: tighten slicing and lower WIP by one.
 
 This is small, surgical, and you’ll see the burndown flatten without theatrics.
 
-Tactics & templates you can drop in today
+### Tactics & templates you can drop in today
 * Story template
 * Goal: User can X to achieve Y.
 * Acceptance: 3–5 bullet checks, observable.
@@ -111,7 +111,7 @@ Backlog → Ready → In Progress → In Review → Verify → Done
 * Build Sheriff (keeps CI green)
 * Blocker Buster (unblocks dependencies)
 
-Anti-patterns to kill immediately
+### Anti-patterns to kill immediately
 * Big stories “almost done” until the last day.
 * Measuring people by story points (they’ll inflate).
 * Mid-sprint scope adds without equal de-scope.
