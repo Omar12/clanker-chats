@@ -14,8 +14,6 @@ Gen Z engineers crave purpose. You cannot just throw JIRA tickets at them.
 
 Don’t just assign tasks. Assign ownership, context, and business impact. Give them a seat at the table of why decisions are made. This generation was raised questioning everything — they need narrative and rationale or they mentally check out.
 
----
-
 ## 2. Prioritize Micro-Feedback Loops
 
 They grew up with instant feedback: likes, comments, reactions. That bakes into expectations. You don’t need to validate them constantly, but delayed feedback will be interpreted as disinterest.
@@ -23,8 +21,6 @@ They grew up with instant feedback: likes, comments, reactions. That bakes into 
 Set up weekly 1:1s, give immediate code feedback, and praise the process, not just the outcomes.
 
 🧠 Example: At my previous company, we ran micro-feedback sessions post-sprint. One of my juniors told me, "These 15 minutes saved me hours of uncertainty." He was 23.
-
----
 
 ## 3. Balance Autonomy with Guardrails
 
@@ -36,8 +32,6 @@ Use the "North Star with Rails" model:
 * Let them brainstorm, and then iterate with you — not just after they’re done.
 
 Give them playgrounds to be creative without letting them drive the production car into a tree.
-
----
 
 ## 4. Career Development Is a Constant Background Thread
 
@@ -51,8 +45,6 @@ You need to be two steps ahead here:
 * Regularly recalibrate their expectations (especially if they’re progressing fast — burnout risk is high).
 * Encourage public speaking, blog writing, open source. Many want personal brand as much as compensation.
 
----
-
 ## 5. Mental Health and Boundaries Matter More Than You Realize
 
 Gen Z is much more attuned to mental health, burnout, and personal well-being. That doesn’t mean they can’t grind — many of them can sprint harder than you expect — but they need psychological safety and transparency.
@@ -62,8 +54,6 @@ Do check in when performance dips — don’t assume apathy, assume something’
 
 At Meta, we had a junior engineer who was suddenly disengaged. Instead of escalating, I asked a simple question: "Is something outside of work making this harder?" Turns out his visa was in limbo. His gratitude for not being punished for being human turned him into one of our most loyal engineers.
 
----
-
 ## 6. Use Tech the Way They Do
 
 Don’t send emails.
@@ -72,8 +62,6 @@ Use collaborative docs instead of long-winded PRDs.
 Let them lead demos.
 
 They grew up with collaboration tools that make meetings optional and async culture powerful. Leverage that. You’ll move faster.
-
----
 
 TL;DR Playbook for Managing Gen Z Engineers:
 
@@ -85,8 +73,6 @@ Career clarity	Show the map, don’t let them drift
 Respect wellness	Normalize boundaries
 Speak their language	Slack, memes, async docs
 
-
----
 
 Let me leave you with a metaphor:
 
