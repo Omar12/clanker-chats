@@ -52,7 +52,7 @@ Gen Z is much more attuned to mental health, burnout, and personal well-being. T
 Don’t guilt-trip them for logging off at 6.
 Do check in when performance dips — don’t assume apathy, assume something’s off and investigate with empathy.
 
-At Meta, we had a junior engineer who was suddenly disengaged. Instead of escalating, I asked a simple question: "Is something outside of work making this harder?" Turns out his visa was in limbo. His gratitude for not being punished for being human turned him into one of our most loyal engineers.
+At my previous company, we had a junior engineer who was suddenly disengaged. Instead of escalating, I asked a simple question: "Is something outside of work making this harder?" Turns out his visa was in limbo. His gratitude for not being punished for being human turned him into one of our most loyal engineers.
 
 ## 6. Use Tech the Way They Do
 
